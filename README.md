@@ -12,6 +12,16 @@
   #### Frontend: React, Tailwind CSS, Zod, Recoil
   #### Backend: Node.js, Express
   #### Database: MongoDB, mongoose
+## Getting started  
+  #### git clone https://github.com/saitejapendram/paytm-clone.git
+  #### cd backend
+  #### npm install
+  #### replace mongoDB connection string with yours
+  #### nodemon index.js
+  #### cd frontend
+  #### npm install
+  #### npm run dev
+  
 ## Screenshots
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/019a43c6-6d27-4687-a7a6-e630556db986"> 
 <img width="783" alt="image" src="https://github.com/user-attachments/assets/57d6fb2f-bcf9-4ca3-b49e-0b0c243078ec"> 
