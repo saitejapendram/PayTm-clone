@@ -12,3 +12,5 @@
   #### Frontend: React, Tailwind CSS, Zod, Recoil
   #### Backend: Node.js, Express
   #### Database: MongoDB, mongoose
+## Screenshots
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/019a43c6-6d27-4687-a7a6-e630556db986">
