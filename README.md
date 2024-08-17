@@ -9,6 +9,6 @@
   #### Transaction History: View all your past transactions.
 
 ## Tech Stack
-  #### Frontend: React, Tailwind CSS
+  #### Frontend: React, Tailwind CSS, Zod, Recoil
   #### Backend: Node.js, Express
-  #### Database: MongoDB
+  #### Database: MongoDB, mongoose
