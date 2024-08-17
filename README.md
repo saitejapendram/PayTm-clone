@@ -1,4 +1,4 @@
-# Paytm Clone
+## Paytm Clone
 # A full-stack Paytm clone built with React, Node.js, Express, MongoDB, and Tailwind CSS. This project includes robust authentication, authorization, and secure money transfer functionalities.
 
 # Features
